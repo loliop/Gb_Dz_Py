@@ -65,3 +65,4 @@ n = list(zip(users, ids, salary))
 a, b, c = zip(*n)
 print(n)
 print(a, b, c)
+# все
